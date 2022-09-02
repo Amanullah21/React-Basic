@@ -1,0 +1,9 @@
+span{
+  width: 150px;
+  border: #111111;
+  background-color: rgb(233, 224, 107);
+  cursor: pointer;
+  padding: 5px;
+  color: red;
+  font-size: larger;
+}
