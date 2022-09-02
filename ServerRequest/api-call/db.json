@@ -1,0 +1,24 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "Fardin",
+      "state": "Bihar"
+    },
+    {
+      "name": "Md Amanullah",
+      "state": "sasa",
+      "id": 2
+    },
+    {
+      "name": "Md Amanullah",
+      "state": "sasa",
+      "id": 3
+    },
+    {
+      "name": "as",
+      "state": "asd",
+      "id": 4
+    }
+  ]
+}

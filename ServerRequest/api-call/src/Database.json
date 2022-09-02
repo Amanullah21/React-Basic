@@ -1,0 +1,8 @@
+{
+  "friends": [
+    { "id": 1, "name": "Fardin", "Address": "Bihar" },
+    { "id": 2, "name": "Chiku", "Address": "Bihar" },
+    { "id": 3, "name": "Shahnewaz", "Address": "Bihar" },
+    { "id": 4, "name": "Chetan", "Address": "Delhi" }
+  ]
+}
