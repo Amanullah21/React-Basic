@@ -13,7 +13,7 @@ In preview participants should be sorted by their age in ascending order.
 ![Here is how it shall look](https://static.masaischool.com/saharan/registration-desk-form.png)
 
 
-Only use this to write your code 
-<a href="https://codesandbox.io/p/sandbox/react-typescript-xlpsg" target="_blank">https://codesandbox.io/p/sandbox/react-typescript-xlpsg</a>
+<p>Only use this to write your code <a href="https://codesandbox.io/p/sandbox/react-typescript-xlpsg" target="_blank">https://codesandbox.io/p/sandbox/react-typescript-xlpsg</a></p>
+
 Guidelines:
 - Do not use any other tools/websites during this activity.
