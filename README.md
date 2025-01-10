@@ -15,6 +15,7 @@ In preview participants should be sorted by their age in ascending order.
 
 Only use this to write your code 
  <a target="_blank">https://codesandbox.io/p/sandbox/react-typescript-xlpsg</a>
+ 
 <a href="https://www.example.com" target="_blank">Go to Example</a>
 Guidelines:
 - Do not use any other tools/websites during this activity.
